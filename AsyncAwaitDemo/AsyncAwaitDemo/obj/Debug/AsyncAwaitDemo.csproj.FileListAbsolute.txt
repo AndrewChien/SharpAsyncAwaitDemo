@@ -1,0 +1,6 @@
+E:\Projects\AsyncAwaitDemo\AsyncAwaitDemo\bin\Debug\AsyncAwaitDemo.exe.config
+E:\Projects\AsyncAwaitDemo\AsyncAwaitDemo\bin\Debug\AsyncAwaitDemo.exe
+E:\Projects\AsyncAwaitDemo\AsyncAwaitDemo\bin\Debug\AsyncAwaitDemo.pdb
+E:\Projects\AsyncAwaitDemo\AsyncAwaitDemo\obj\Debug\AsyncAwaitDemo.csproj.CoreCompileInputs.cache
+E:\Projects\AsyncAwaitDemo\AsyncAwaitDemo\obj\Debug\AsyncAwaitDemo.exe
+E:\Projects\AsyncAwaitDemo\AsyncAwaitDemo\obj\Debug\AsyncAwaitDemo.pdb
